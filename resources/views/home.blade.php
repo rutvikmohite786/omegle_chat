@@ -47,7 +47,7 @@
         }
 
         #display {
-            height: calc(100vh - 40px);
+            height: calc(100vh - 50px);
             width: 100vw;
             justify-self: start;
             overflow: scroll;
